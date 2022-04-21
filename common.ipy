@@ -1,0 +1,23 @@
+# Imports
+
+# python
+from functools import partial
+
+# basics
+import numpy as np
+import pandas as pd
+import scipy.stats as stats
+
+# graphing
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+
+# enable reload of changed files
+%reload_ext autoreload
+%autoreload 2
+
+# plot inline
+%matplotlib inline
+
+import math
