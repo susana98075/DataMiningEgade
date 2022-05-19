@@ -8,8 +8,11 @@ import numpy as np
 import pandas as pd
 import scipy.stats as stats
 
+
+
 # graphing
 import matplotlib.pyplot as plt
+import matplotlib as mpl
 import seaborn as sns
 import plotly.express as px
 
@@ -21,3 +24,5 @@ import plotly.express as px
 %matplotlib inline
 
 import math
+
+import matplotlib.gridspec as gridspec
